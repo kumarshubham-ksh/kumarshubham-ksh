@@ -14,6 +14,7 @@
 <hr/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,react,mongodb,nodejs,express,html,css,js,bootstrap" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=vscode,opencv,figma,git,java,py,c,cpp,mysql" /><br>
 </div>
 <br/>
